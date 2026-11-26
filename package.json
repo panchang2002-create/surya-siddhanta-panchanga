@@ -1,0 +1,15 @@
+{
+  "name": "surya-siddhanta-panchanga",
+  "version": "0.1.0",
+  "description": "Pure Surya Siddhanta panchanga engine (Siddhanta Narakanteeravamu 1934 corrected tables): tithi, nakshatra, yoga, karana, sunrise, masa, sankramana, rahu kalam and more.",
+  "main": "index.js",
+  "files": ["index.js", "src/", "examples/", "LICENSE", "NOTICE", "CITATION.cff", "README.md"],
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["panchanga", "panchangam", "surya-siddhanta", "jyotisha", "hindu-calendar", "tithi", "nakshatra", "telugu"],
+  "author": "Attuli Sivakumar Sharma (Sivaswamy)",
+  "license": "Apache-2.0",
+  "repository": { "type": "git", "url": "https://github.com/panchang2002-create/surya-siddhanta-panchanga.git" }
+}

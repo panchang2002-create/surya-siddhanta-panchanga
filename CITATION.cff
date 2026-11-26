@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "surya-siddhanta-panchanga: a pure Surya Siddhanta panchanga engine (Siddhanta Narakanteeravamu 1934 tables)"
+authors:
+  - family-names: "Sharma"
+    given-names: "Attuli Sivakumar"
+    alias: "Sivaswamy"
+    city: "Madanapalle"
+    country: "IN"
+version: 0.1.0
+date-released: 2026-11-26
+license: Apache-2.0
+repository-code: "https://github.com/panchang2002-create/surya-siddhanta-panchanga"
+keywords:
+  - panchanga
+  - panchangam
+  - surya siddhanta
+  - jyotisha
+  - hindu calendar
+  - telugu
