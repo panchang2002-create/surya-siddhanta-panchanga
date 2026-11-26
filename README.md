@@ -1,5 +1,7 @@
 # surya-siddhanta-panchanga
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24550066.svg)](https://doi.org/10.5281/zenodo.24550066)
+
 **శుద్ధ సూర్యసిద్ధాంత పంచాంగ గణిత లైబ్రరీ** — A pure Surya Siddhanta panchanga engine in JavaScript, based on the corrected tables of *Siddhanta Narakanteeravamu* (1934).
 
 రచయిత / Author: **అత్తూలి శివకుమార్ శర్మ (శివస్వామి) — Attuli Sivakumar Sharma (Sivaswamy)**, Madanapalle, Andhra Pradesh, India.
@@ -79,7 +81,7 @@ You may use, change and share this code freely, including in commercial apps, un
 
 ఈ కోడ్‌ను ఎవరైనా ఉచితంగా వాడుకోవచ్చు, మార్చుకోవచ్చు. కానీ కాపీరైట్ లైన్, NOTICE ఫైల్ తప్పనిసరిగా ఉంచాలి — అది లైసెన్స్ నియమం.
 
-To cite this work in research or teaching, see [CITATION.cff](CITATION.cff).
+To cite this work in research or teaching, see [CITATION.cff](CITATION.cff). Permanent archive and DOI: [10.5281/zenodo.24550066](https://doi.org/10.5281/zenodo.24550066).
 
 ## గురువందనం / Acknowledgements
 
