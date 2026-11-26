@@ -89,13 +89,14 @@ To cite this work in research or teaching, see [CITATION.cff](CITATION.cff).
 - పూజ్య శ్రీ శ్రీ శ్రీ అప్పాస్వామి వారు — శ్రీ శివకోటి శ్రీ మహాలక్ష్మి శ్రీ పీఠం, అనంతపురం
 
 సిద్ధాంత గణితం నేర్పిన గురువులు:
+- పూజ్యశ్రీ మధుర పాలశంకర శర్మ గారు, రాజమహేంద్రవరం — సిద్ధాంత గణితంలోకి అడుగుపెట్టించిన గురువులు
 - బ్రహ్మశ్రీ బో. శ్రీ వేంకటేశ్వర శర్మ అవధాని సిద్ధాంతి గారు
 - బ్రహ్మశ్రీ బట్టిప్రోలు తుకారాం శర్మ గారు
 - శ్రీ దేవరభొట్ల సత్య సురవర్ధన శర్మ గారు
 
 సిద్ధాంత నరకంఠీరవ గ్రంథాన్ని పరిచయం చేసిన శ్రీ తెన్నేటి శ్రీనివాస శర్మ గారికి కృతజ్ఞతలు.
 
-With reverence to Pujya Sri Sri Sri Appaswamy (Sri Sivakoti Sri Mahalakshmi Sri Peetham, Anantapur), who gave mantra-diksha and set me on this path; to my siddhanta gurus Brahmasri Bo. Sri Venkateswara Sharma Avadhani Siddhanti, Brahmasri Bhattiprolu Tukaram Sharma and Sri Devarabhotla Satya Suravardhana Sharma; and with thanks to Sri Tenneti Srinivasa Sharma, who introduced me to Siddhanta Narakanteeravamu.
+With reverence to Pujya Sri Sri Sri Appaswamy (Sri Sivakoti Sri Mahalakshmi Sri Peetham, Anantapur), who gave mantra-diksha and set me on this path; to my siddhanta gurus Pujyasri Madhura Palashankara Sharma (Rajamahendravaram), who first brought me into siddhanta ganita, Brahmasri Bo. Sri Venkateswara Sharma Avadhani Siddhanti, Brahmasri Bhattiprolu Tukaram Sharma and Sri Devarabhotla Satya Suravardhana Sharma; and with thanks to Sri Tenneti Srinivasa Sharma, who introduced me to Siddhanta Narakanteeravamu.
 
 ## License
 
